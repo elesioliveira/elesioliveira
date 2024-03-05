@@ -1,7 +1,7 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6442b8&height=120&section=header"/>
-<p align="center"> <strong>Bem-vindo ao meu GitHub. <br><br> Sou desenvolvedor mobile usando <strong>Flutter como principal FrameWork. Eu sou <strong>entusiasta por tecnologia e pelo futuro,</strong> e uso toda essa paixão por tecnologia pra criar soluções incríveis. Atualmente, eu sou <strong>programador front end </strong>mas pretendo me especializar e me tornar <strong>Full Stack💖.<strong></p>&nbsp;
+<p align="center"> <strong>Bem-vindo ao meu GitHub. <br><br> Sou desenvolvedor mobile usando <strong>Flutter como principal FrameWork. Eu sou <strong>entusiasta por tecnologia e pelo futuro,</strong> uso toda essa paixão por tecnologia pra criar soluções incríveis. Atualmente, eu sou <strong>programador front end </strong>mas pretendo me especializar e me tornar <strong>Full Stack💖.<strong></p>&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elesioliveira&show_icons=true&count_private=true&hide_border=true&title_color=6442b8&icon_color=6442b8&text_color=c9d1d9&bg_color=0d1117" alt="Elesio Oliveira github stats" /> 
